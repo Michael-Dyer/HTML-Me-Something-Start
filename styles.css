@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+
+main{
+    margin: 10vh;
+    padding: 10vh;
+    
+}
+
+h2{
+    color: black ;
+}
+
+#mainHeading{
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+}
